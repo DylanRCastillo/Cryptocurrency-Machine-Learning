@@ -36,6 +36,7 @@
 
 * Create an elbow plot to identify the best number of clusters. Use a for-loop to determine the inertia for each `k` between 1 through 10. Determine, if possible, where the elbow of the plot is, and at which value of `k` it appears.
 
+![predictions](Images/predictions.PNG)
 - - -
 
 ## References
